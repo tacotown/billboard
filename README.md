@@ -1,4 +1,4 @@
-### Billboard
+a### Billboard
 
 This tool allows you to edit Pole Position arcade roms to change the billboard
 signs in the game.
@@ -63,7 +63,7 @@ on the Marlboro sign (and vice versa). None of the Atari ROM signs have this iss
 
 ## To Download
 
-An executable with the latest build can be found a https://www.darkstararcade.com/
+An executable with the latest build can be found at https://www.darkstararcade.com/downloads/billboard.jar
 
 ## To build
 
@@ -137,7 +137,7 @@ as a GIF file.
 Lastly, there is a "Save ROM" option that will save the edited images to ROM format. The ROMS
 will be saved with ``_new`` as a suffix, leaving the original files untouched.
 
-## Shrunken Imags
+## Shrunken Images
 
 On the two remaining tabs, you'll find shrunken down versions of the larger
 images. Remember, two signs are used to provide the "getting closer to a sign" effect.
